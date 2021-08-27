@@ -1,0 +1,8 @@
+	<KSP>
+	<WIN>	"640"480"0"0"
+P000
+	<+>	"*CNT"1"
+	<IF>	"*CNT"="10"
+	<DISP>	"hello world"100"100"
+	<GOTO>	"P000"
+
